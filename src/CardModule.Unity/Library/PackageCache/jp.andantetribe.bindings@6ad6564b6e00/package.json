@@ -1,0 +1,23 @@
+{
+  "name": "jp.andantetribe.bindings",
+  "displayName": "Bindings",
+  "author": {
+    "name": "AndanteTribe",
+    "url": "https://github.com/AndanteTribe"
+  },
+  "version": "0.5.0",
+  "unity": "6000.0",
+  "description": "MVVM-based automated UI binding framework built on uGUI.",
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Gauge Sample (dependency LitMotion)",
+      "description": "A sample demonstrating the use of Bindings with a gauge UI element. This sample depends on the LitMotion package for animations.",
+      "path": "Samples~/GaugeSample"
+    }
+  ],
+  "_fingerprint": "6ad6564b6e00893f60eee56aec32ce5168a11d6d"
+}
